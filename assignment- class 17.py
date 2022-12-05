@@ -12,4 +12,5 @@ def str_list(word1, word2):
 word1 = str(input())
 word2 = str(input())
 
-print(str_list(word1, word2))
+print(str_list(word1,word2))
+
